@@ -38,3 +38,107 @@
 2025-04-06 16:03:54,642 - ERROR - Error at image 16: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f255fa615f87d174b08a3b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
 2025-04-06 16:04:25,584 - ERROR - Error at image 17: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f255fa615f87d174b08a3b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
 2025-04-06 16:04:56,458 - ERROR - Error at image 18: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f255fa615f87d174b08a3b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-06 16:05:27,813 - ERROR - Error at image 19: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f255fa615f87d174b08a3b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-06 16:38:21,859 - ERROR - Error at image 0: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f255fa615f87d174b08a3b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-06 16:46:56,763 - INFO - Saved image 0 to MongoDB and disk
+2025-04-06 16:46:57,567 - INFO - Saved image 1 to MongoDB and disk
+2025-04-06 16:46:58,466 - INFO - Saved image 2 to MongoDB and disk
+2025-04-06 16:46:59,446 - INFO - Saved image 3 to MongoDB and disk
+2025-04-06 16:47:00,427 - INFO - Saved image 4 to MongoDB and disk
+2025-04-06 16:47:01,323 - INFO - Saved image 5 to MongoDB and disk
+2025-04-06 16:47:02,388 - INFO - Saved image 6 to MongoDB and disk
+2025-04-06 16:47:03,226 - INFO - Saved image 7 to MongoDB and disk
+2025-04-06 16:47:04,280 - INFO - Saved image 8 to MongoDB and disk
+2025-04-06 16:47:05,303 - INFO - Saved image 9 to MongoDB and disk
+2025-04-06 16:47:06,337 - INFO - Saved image 10 to MongoDB and disk
+2025-04-06 16:47:07,330 - INFO - Saved image 11 to MongoDB and disk
+2025-04-06 16:47:08,340 - INFO - Saved image 12 to MongoDB and disk
+2025-04-06 16:47:09,357 - INFO - Saved image 13 to MongoDB and disk
+2025-04-06 16:47:10,461 - INFO - Saved image 14 to MongoDB and disk
+2025-04-06 16:47:11,488 - INFO - Saved image 15 to MongoDB and disk
+2025-04-06 16:47:12,365 - INFO - Saved image 16 to MongoDB and disk
+2025-04-06 16:47:13,297 - INFO - Saved image 17 to MongoDB and disk
+2025-04-06 16:47:14,138 - INFO - Saved image 18 to MongoDB and disk
+2025-04-06 16:47:15,154 - INFO - Saved image 19 to MongoDB and disk
+2025-04-06 16:49:13,111 - INFO - Created directory: images/Krishna
+2025-04-06 16:49:38,549 - INFO - Saved image 0 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0w0pCk-HyQT278B7u6lPPeUg4L2T2hD-QiD34uNLxi1MsH7aOWT3WxrUOgRY&s
+2025-04-06 16:49:39,309 - INFO - Saved image 1 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_l-lp1jP1A8LoalQcQVW2iCUdbxf0IJOlFp3sotnOGpIbiQOxuxABvWjwRs&s
+2025-04-06 16:49:40,079 - INFO - Saved image 2 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRHVoEEnNpwRXchW3K9uMP_PBOqTRfF9Y7rBLkGt2W4jeVJ8BCt5ZKZR9RYM&s
+2025-04-06 16:49:40,922 - INFO - Saved image 3 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDRd0srJJymAFxOBvz-PwtmVkTWSxZ_wu2K8UYGYCpOy6_um5LP3B163AAw&s
+2025-04-06 16:49:41,488 - INFO - Saved image 4 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzr5x0uRDI-CuAYCKe_NWJ9QebdJjdiaaD-JPBt8_xbOA64EvsRMvcssdrJQM&s
+2025-04-06 16:49:42,388 - INFO - Saved image 5 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY07NoJEv1XmdH51BIF7RK8CuXvdQkQD_dhkyiTAIx-00OKW21NVn4bLvZSwg&s
+2025-04-06 16:49:42,972 - INFO - Saved image 6 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HaUzs8UlAa9CinJo4FE9QI3NK6USW1D8x3PcfYGNFEEWh6CMc0K1D9tr2gk&s
+2025-04-06 16:49:43,755 - INFO - Saved image 7 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCkEZ9HUlOSBu-JzUHh-NQw4e_z47wCsh1HOq_B61X8xCIasARtPpulPnAQ&s
+2025-04-06 16:49:44,480 - INFO - Saved image 8 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUouqpZ1HCmXWfncv-cQEp4DiNK9kvwlz99dtgkARp5qVDAQ9PQNbHzxdmg&s
+2025-04-06 16:49:44,988 - INFO - Saved image 9 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5XwICqz2IgIEvZcQIY9NOWzEQTOoLoukG1P2wwf776wAqL8VmoIk_0dt1XI&s
+2025-04-06 16:49:45,937 - INFO - Saved image 10 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0Mdeq36K5BQKmLvlIcNHNC_5AbxXj8rMeSN15bGPfRsV5qJX9KEY42N7R8g&s
+2025-04-06 16:49:46,704 - INFO - Saved image 11 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR5HW3yapeLD3rsJYLdIBPKWUay8zUaL3adX5Z5PSAbTR4nQTWa20pyHI2ds&s
+2025-04-06 16:49:47,279 - INFO - Saved image 12 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo71ERjFmZmca6gpcGPeg2ac4Y9pkShU-2yEkbLCsrm0W-YvnXXf64zUBI084&s
+2025-04-06 16:49:47,972 - INFO - Saved image 13 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3kITEBeNDYK-8D90dyF_hwwmQjiArnHoaMwMGwrRWSfbqI2t80phKAuF0GQ&s
+2025-04-06 16:49:48,763 - INFO - Saved image 14 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHh7oTBbRzBLMLzlvhiOHK8Bh1teJnuPn4SwLLHXAfIVy_j_q3CO9s41fCA&s
+2025-04-06 16:49:49,514 - INFO - Saved image 15 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqnZOwd23K4OgCaEoKNLbseHk01yZqFIrbMN6TgXbmD0U40A2cqjaIUd1F0Y&s
+2025-04-06 16:49:50,205 - INFO - Saved image 16 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkHDNtQdblniyUFAi87DZnVU_u5bUFV8tgG5Hu0LvPCpF6HQ4V8LHmtXf-Q&s
+2025-04-06 16:49:50,826 - INFO - Saved image 17 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrcXhMNRKFweJHEJMMmhd6PAnCPl_QpB0nv3ndBKZI0jE31O1WMJHDCX64aw&s
+2025-04-06 16:49:51,614 - INFO - Saved image 18 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamBwGcWZlvSIZjLI21bK1rnTYESTRd3b5ieFyiFfrGGBNVpzVb2bBSxeFOME&s
+2025-04-06 16:49:52,490 - INFO - Saved image 19 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtcLPBhvXelaKbgr6OOApXvMSgy8FoMI1uMWypSp7puAe-U47AsWL_x7zww&s
+2025-04-06 16:50:58,355 - INFO - Saved image 0 to MongoDB and disk
+2025-04-06 16:50:59,299 - INFO - Saved image 1 to MongoDB and disk
+2025-04-06 16:51:00,009 - INFO - Saved image 2 to MongoDB and disk
+2025-04-06 16:51:00,789 - INFO - Saved image 3 to MongoDB and disk
+2025-04-06 16:51:01,601 - INFO - Saved image 4 to MongoDB and disk
+2025-04-06 16:51:02,575 - INFO - Saved image 5 to MongoDB and disk
+2025-04-06 16:51:03,461 - INFO - Saved image 6 to MongoDB and disk
+2025-04-06 16:51:04,339 - INFO - Saved image 7 to MongoDB and disk
+2025-04-06 16:51:05,122 - INFO - Saved image 8 to MongoDB and disk
+2025-04-06 16:51:06,155 - INFO - Saved image 9 to MongoDB and disk
+2025-04-06 16:51:07,192 - INFO - Saved image 10 to MongoDB and disk
+2025-04-06 16:51:08,275 - INFO - Saved image 11 to MongoDB and disk
+2025-04-06 16:51:09,175 - INFO - Saved image 12 to MongoDB and disk
+2025-04-06 16:51:10,097 - INFO - Saved image 13 to MongoDB and disk
+2025-04-06 16:51:10,879 - INFO - Saved image 14 to MongoDB and disk
+2025-04-06 16:51:11,639 - INFO - Saved image 15 to MongoDB and disk
+2025-04-06 16:51:12,292 - INFO - Saved image 16 to MongoDB and disk
+2025-04-06 16:51:13,338 - INFO - Saved image 17 to MongoDB and disk
+2025-04-06 16:51:14,422 - INFO - Saved image 18 to MongoDB and disk
+2025-04-06 16:51:15,411 - INFO - Saved image 19 to MongoDB and disk
+2025-04-06 16:54:06,013 - INFO - Created directory: images/Arijit Singh
+2025-04-06 16:54:32,873 - INFO - Saved image 0 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnMVSPJH4QgoSxyYK38-V1n3CXjugAbkqc7INBqlCPdLLSgTZFb0-UavuEnM&s
+2025-04-06 16:54:33,690 - INFO - Saved image 1 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsPPmneGvIkjfdcJcXixH7bTpqHC_kRRMWZZQkQdbuGC1G2IJJRgf1XYr2Qg&s
+2025-04-06 16:54:34,510 - INFO - Saved image 2 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMtqS1xHubF4Ah3peAWwg8KlPLP8Z_4SPiUiIbG8XedGBD6Dc6Vz0voR4JQ&s
+2025-04-06 16:54:35,379 - INFO - Saved image 3 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF1fpyWlpk4ev4sdUFoJloFGxRcUEoOlYMPxDy4sfH8xyDyWbse6yHhWVLA&s
+2025-04-06 16:54:36,321 - INFO - Saved image 4 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PdGVwpbYNuizzVYMztUZw_R_hTGdmJ6nXXnZZXX3I1WIPTfkYNbHSEGum_g&s
+2025-04-06 16:54:37,189 - INFO - Saved image 5 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibl_SLi0xbH4CcLfyJbhzzLB-n5cg99V84iE_omBshDuIPxIkpqWJ89ZctSA&s
+2025-04-06 16:54:37,944 - INFO - Saved image 6 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmB2Iw9baje5WfHVT0W9X4VxDES8-cE3y91ExCxoYVdw3hlCO83wcmgSEbiA&s
+2025-04-06 16:54:38,658 - INFO - Saved image 7 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5fZic_IlKnZQ9ZN8_VWwoSHd4z6_-e-7Gj-2YptxvHHPVwQawdbToJqIYg&s
+2025-04-06 16:54:39,469 - INFO - Saved image 8 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHYLEIqDNpjVj9avMd2Fpai6pOwQpGsYlCliNCnTCZVItxmnxQnrkda6QrA&s
+2025-04-06 16:54:40,231 - INFO - Saved image 9 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDuOgzNatXbHoYo25bC8Jkat44mY_N9owFeTle6ABNx6oZ3v1z16eWoRHcnA&s
+2025-04-06 16:54:41,031 - INFO - Saved image 10 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjlNRXVLMIIm50111Xel31JsYRuRmlK09v82tkEt6Is02Ce9n1CxrWpPqew&s
+2025-04-06 16:54:41,602 - INFO - Saved image 11 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR847Rlsn4_gNDyEc9QlO5zax0mO57tjnbtQcLIl94PS2hGQPp_Pli1LwJcqC0&s
+2025-04-06 16:54:42,439 - INFO - Saved image 12 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsP6OAQoJRLPoyi-fS68ylasBLQx_E3m84yFqv_8EsqoTnqPwOmnWMyd3OSg&s
+2025-04-06 16:54:43,175 - INFO - Saved image 13 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16ChOvruotIuYZvMC_GzWPqaGcEzgtW__WBIc3xMPDFXdatcP7BwtatBdMQ&s
+2025-04-06 16:54:44,003 - INFO - Saved image 14 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZTswbO257qssJyp38RpKXkm9iJnqavK4eb2D7rjmxH3GLFSHWCa3qvmszFo&s
+2025-04-06 16:54:44,802 - INFO - Saved image 15 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELNtrjpQ_xpVPqVXVhroRHXH0TWOpD45ojhmeE-ar51whIXb9-opQdNel0g&s
+2025-04-06 16:54:45,597 - INFO - Saved image 16 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFeU4zIKdX5O0r34ffdfxoyalhL1eiTG6cm9dM1ESgvb0jXS9H-ODFouM6sI&s
+2025-04-06 16:54:46,239 - INFO - Saved image 17 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomcOzQKwIVV8_-2RqxmfZK2ME6Sg4S_DEIXAOi3xmFr8UDc_eHRdqitiufeQ&s
+2025-04-06 16:54:46,910 - INFO - Saved image 18 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvTWBjoTRu0Rx4PlO4NeirCsnVmWSPkZRq_2rtAe8RSVjQS_VwdxOqi3-VQ&s
+2025-04-06 16:54:47,531 - INFO - Saved image 19 from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-ISJBTkANP5uO2z02XGVrUOGd5aRXiXt5nE636OKfpsfRj2Mcs_aL7DEHA&s
+2025-04-06 16:55:16,455 - INFO - Saved image 0 to MongoDB and disk
+2025-04-06 16:55:17,489 - INFO - Saved image 1 to MongoDB and disk
+2025-04-06 16:55:18,623 - INFO - Saved image 2 to MongoDB and disk
+2025-04-06 16:55:19,765 - INFO - Saved image 3 to MongoDB and disk
+2025-04-06 16:55:20,431 - INFO - Saved image 4 to MongoDB and disk
+2025-04-06 16:55:21,556 - INFO - Saved image 5 to MongoDB and disk
+2025-04-06 16:55:22,448 - INFO - Saved image 6 to MongoDB and disk
+2025-04-06 16:55:23,465 - INFO - Saved image 7 to MongoDB and disk
+2025-04-06 16:55:24,608 - INFO - Saved image 8 to MongoDB and disk
+2025-04-06 16:55:25,475 - INFO - Saved image 9 to MongoDB and disk
+2025-04-06 16:55:26,528 - INFO - Saved image 10 to MongoDB and disk
+2025-04-06 16:55:27,573 - INFO - Saved image 11 to MongoDB and disk
+2025-04-06 16:55:28,629 - INFO - Saved image 12 to MongoDB and disk
+2025-04-06 16:55:29,627 - INFO - Saved image 13 to MongoDB and disk
+2025-04-06 16:55:30,591 - INFO - Saved image 14 to MongoDB and disk
+2025-04-06 16:55:31,240 - INFO - Saved image 15 to MongoDB and disk
+2025-04-06 16:55:32,055 - INFO - Saved image 16 to MongoDB and disk
+2025-04-06 16:55:33,244 - INFO - Saved image 17 to MongoDB and disk
+2025-04-06 16:55:34,306 - INFO - Saved image 18 to MongoDB and disk
+2025-04-06 16:55:35,356 - INFO - Saved image 19 to MongoDB and disk
