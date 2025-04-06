@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Image Scraper</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>🖼️ Image Scraper</h1>
+    <form action="/scrape" method="post">
+      <input type="text" name="keyword" placeholder="Enter keyword..." required />
+      <input type="number" name="count" min="1" max="50" value="10" required />
+      <button type="submit">Scrape Images</button>
+    </form>
+  </div>
+</body>
+</html>
+
